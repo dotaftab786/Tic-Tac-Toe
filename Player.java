@@ -14,7 +14,7 @@ public class Player{
        return this.name;
     }
 
-    public char setSymbol(){
+    public char getSymbol(){
         return this.symbol;
     }
 }
